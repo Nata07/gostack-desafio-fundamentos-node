@@ -9,8 +9,8 @@
 onde é possivel registrar entradas e saidas, com calculos totais</p>
 
 <p> Link do desafio:
-  <a href=https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-fundamentos-nodejs">
-  https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-fundamentos-nodejs </a>
+  <a href=https://github.com/Rocketseat/bootcamp-gostack-desafios/blob/master/desafio-fundamentos-nodejs/README.md">
+  https://github.com/Rocketseat/bootcamp-gostack-desafios/blob/master/desafio-fundamentos-nodejs/README.md </a>
 </p>
 
 ## :memo: Licença
